@@ -1,0 +1,25 @@
+{
+  "name": "npm_webpack_boiler",
+  "version": "1.0.0",
+  "description": "Website Boiler using WebPack and various PostCSS functions",
+  "main": "app.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherPulley/Npm_WebPack_Boiler.git"
+  },
+  "keywords": [
+    "NPM",
+    "WebPack",
+    "Boiler"
+  ],
+  "author": "Christopher Pulley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherPulley/Npm_WebPack_Boiler/issues"
+  },
+  "homepage": "https://github.com/ChristopherPulley/Npm_WebPack_Boiler#readme"
+}
